@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,cACE,yBAAA,CAAA,iBAAA,CACA,sBAAA,CAGF,kBACE,iBAAA","file":"main.3e5dc0af.chunk.css","sourcesContent":["// styles go here\n.selectedGood {\n  width: max-content;\n  background-color: green;\n}\n\n.buttonVisibility {\n  visibility: hidden;\n}\n"]}
